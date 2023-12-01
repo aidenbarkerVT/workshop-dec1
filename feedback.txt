@@ -1,0 +1,6 @@
+Minahil Malik (minahilmalik), Sophia Nadasy (sophian02)
+Feedback:
+Code is straightforward and easy to understand.
+Formatting is prioritized. 
+Doesn't take into account edge cases, only has top 5 listed. 
+Accessible to most developers. 
